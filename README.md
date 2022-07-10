@@ -3,7 +3,7 @@
 # Sobre o projeto
 
 Por meio desse projeto consegui colocar em prática conhecimentos sobre a ferramenta do CSS de posicionamento de elementos. Esse projeto faz parte de um curso que realizei na área. 
-
+Além disso, o projeto também tem responsividade.
 # Descrição do projeto
 
 ## Layout web
